@@ -1,6 +1,8 @@
 # rabbitmq-python
 Chat com RabbitMQ
 
+Chat com RabbitMQ com chat em grupo e conversas privadas. Minímo de 3 usuários por vez no chat em grupo.
+
 Para que funcione todas as aplicações com python, certifique-se que todos os dados estão corretos.
 
 Instale a biblioteca "pika", "threading", "requests" e "time" 
